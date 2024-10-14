@@ -1,0 +1,2 @@
+Numero_secreto = 5
+Quantidade_tentativas = 3
